@@ -1,0 +1,59 @@
+Konteks Mata Kuliah
+Mata kuliah ini ditempatkan di semester pertama dan menjadi fondasi kuantitatif bagi seluruh mata kuliah bisnis yang akan dipelajari mahasiswa ke depannya. Karakteristik mahasiswa yang saya hadapi adalah mahasiswa dengan kemampuan matematika yang kemungkinan besar jauh di bawah rata-rata — latar belakang SMA/SMK yang sangat beragam, sebagian besar tidak terbiasa dengan pemikiran matematis formal. Karena itu, pendekatan pembelajaran harus sangat kontekstual, bertahap, dan tidak membebani secara kognitif.
+
+Pendekatan Pedagogis yang Sudah Disepakati
+Kurikulum ini dirancang dengan strategi bifurkasi: memisahkan semester menjadi dua blok besar yang saling terhubung.
+Blok I — Pra-UTS (Pertemuan 1–7): Matematika Murni
+Mahasiswa fokus sepenuhnya membangun "kotak perkakas" matematis — fondasi logika dan komputasi yang kokoh — tanpa distraksi variabel bisnis yang kompleks. Di blok ini, setiap materi baru selalu bertumpu pada materi sebelumnya secara eksplisit.
+Blok II — Pasca-UTS (Pertemuan 8–14): Aplikasi Bisnis
+Setelah fondasi matematis cukup kuat, rumus-rumus abstrak ditransformasikan menjadi instrumen pengambilan keputusan bisnis: fungsi permintaan, optimasi produksi, manajemen biaya, keuangan, logistik ekspor, dan peramalan penjualan.
+Metode pembelajaran yang digunakan: Contextual Teaching & Learning (CTL) di seluruh semester, Problem-Based Learning (PBL) di blok pasca-UTS, dan scaffolding terstruktur di mana setiap konsep baru selalu dijembatani dari konsep sebelumnya. Ada dua minggu penyangga: Pertemuan 7 untuk responsi dan konsolidasi pra-UTS, serta Pertemuan 14 untuk studi kasus integratif.
+Filosofi utama: mahasiswa tidak hanya ditanya "apa rumusnya?" tetapi "bagaimana matematika ini membantu saya mengambil keputusan bisnis yang lebih baik?" Setiap konsep matematis harus punya "alamat bisnis" yang jelas — geometri volume beralamat di perhitungan berat volumetrik kargo ekspor, turunan beralamat di biaya marginal dan EOQ, deret geometri beralamat di bunga majemuk.
+
+Urutan Pertemuan Final (Sudah Diperbaiki)
+Urutan ini sudah melalui analisis keruntutan dan perbaikan dari tiga masalah awal: (1) fungsi kuadratik semula terlalu dini sebelum matriks, (2) matriks seharusnya langsung setelah aljabar linear sebagai perluasannya, (3) kalkulus membutuhkan jembatan eksplisit tentang konsep fungsi sebelum masuk turunan.
+Blok I — Matematika Murni (Pra-UTS):
+
+Pertemuan 1 — Modul 1: Aritmatika, proporsi, dan geometri dasar. Operasi pecahan, desimal, persentase kumulatif, rasio, perbandingan senilai dan berbalik nilai, geometri ruang (luas permukaan dan volume balok, kubus, silinder). Koneksi ke bisnis: volume bangun ruang adalah fondasi perhitungan berat volumetrik kargo ekspor. Tagihan: Kuis 1.
+Pertemuan 2 — Modul 2: Aljabar linear dan sistem persamaan. Variabel, konstanta, koefisien, Persamaan Linear Satu Variabel (PLSV), Persamaan Linear Dua Variabel (PLDV) metode substitusi dan eliminasi, sistem pertidaksamaan linear dan daerah penyelesaian pada grafik Kartesius. Koneksi ke bisnis: fondasi pemodelan BEP sederhana. Tagihan: Tugas 1.
+Pertemuan 3 — Modul 3: Aljabar matriks. Ordo matriks, operasi dasar (penjumlahan, pengurangan, perkalian skalar, perkalian antar-matriks), determinan dan invers 2×2 serta 3×3, penyelesaian sistem persamaan via matriks. Diletakkan di sini sebagai perluasan langsung dari Modul 2. Tagihan: Kuis 2.
+Pertemuan 4 — Modul 4: Konsep fungsi dan barisan-deret-sigma. Konsep fungsi sebagai pemetaan input-output (domain, kodomain, representasi tabel/grafik/persamaan), barisan dan deret aritmatika, barisan dan deret geometri, notasi sigma. Modul ini berfungsi sebagai jembatan menuju fungsi non-linear dan kalkulus. Tagihan: Tugas 2.
+Pertemuan 5 — Modul 5: Fungsi non-linear (kuadratik). Karakteristik fungsi kuadrat y = ax²+bx+c, arah parabola, titik potong sumbu X dan Y, titik puncak/verteks, sumbu simetri. Diletakkan setelah konsep fungsi dikuasai di Modul 4. Tagihan: Kuis 3.
+Pertemuan 6 — Modul 6: Pengantar kalkulus — limit dan turunan. Konsep limit secara intuitif, turunan sebagai laju perubahan sesaat dan kemiringan garis singgung, aturan dasar diferensial (pangkat, konstanta, penjumlahan, perkalian konstanta), turunan fungsi linear dan kuadratik. Masuk secara alami setelah fungsi linear dan non-linear dikuasai. Tagihan: Tugas 3.
+Pertemuan 7 — Modul 7: Responsi dan pemantapan pra-UTS (minggu penyangga pertama). Review terpadu lintas modul, sesi tanya jawab terbuka, remedial terbimbing kelompok kecil, simulasi soal UTS. Tidak ada tagihan baru.
+
+UJIAN TENGAH SEMESTER (UTS): Fokus evaluasi pada kemampuan komputasi, ketepatan rumus, dan logika matematika murni. Tidak ada soal aplikasi bisnis di UTS.
+Blok II — Matematika Terapan Bisnis (Pasca-UTS):
+
+Pertemuan 8 — Modul 8: Aplikasi aljabar dalam ekonomi mikro. Membentuk fungsi permintaan (Qd = a − bP) dan penawaran (Qs = c + dP) dari data riil, mencari titik keseimbangan pasar, analisis dampak pajak per unit dan subsidi terhadap keseimbangan. Aplikasi langsung dari Modul 2 dan 5. Tagihan: Kuis 4.
+Pertemuan 9 — Modul 9: Program linear untuk optimasi produksi. Mengidentifikasi variabel keputusan, fungsi tujuan, dan kendala; menerjemahkan keterbatasan bahan baku dan jam kerja ke pertidaksamaan linear; metode grafik; corner points; kombinasi produksi optimal. Aplikasi langsung dari Modul 2. Tagihan: Tugas 4 (kelompok 2 orang).
+Pertemuan 10 — Modul 10: Analisis biaya, marginal, dan optimasi persediaan (EOQ). Pemisahan biaya tetap dan variabel, analisis BEP matematis, biaya marginal menggunakan turunan pertama (MC = dTC/dQ), penerimaan marginal, kondisi laba maksimum (MR = MC), Economic Order Quantity dengan rumus langsung (EOQ = √(2DS/H)). Aplikasi Modul 2 dan 6 secara bersamaan. Tagihan: Kuis 5.
+Pertemuan 11 — Modul 11: Matematika keuangan terapan. Bunga tunggal dan majemuk (FV = PV(1+r)^n sebagai aplikasi deret geometri), present value dan future value, depresiasi aset metode garis lurus dan saldo menurun, anuitas biasa dan simulasi cicilan pinjaman bank. Praktik menggunakan spreadsheet/Excel untuk tabel amortisasi. Tagihan: Tugas 5 (individu dengan Excel).
+Pertemuan 12 — Modul 12: Matematika logistik dan perdagangan internasional. Berat aktual vs berat volumetrik kargo udara (BV = P×L×T/6000 dalam cm) dan laut (CBM), chargeable weight, kurs jual dan beli, konversi langsung via USD, simulasi harga dalam USD/EUR/JPY, komponen CIF (Cost + Insurance + Freight), perhitungan bea masuk, simulasi EXW → FOB → CIF. Ini adalah kompetensi khas dan unik ABI yang harus diperdalam. Tagihan: Kuis 6.
+Pertemuan 13 — Modul 13: Peramalan bisnis — metode Least Squares. Konsep tren, persamaan garis tren Ŷ = a + bX, sistem persamaan normal Least Squares, penyusunan tabel perhitungan (X, Y, XY, X²), ramalan untuk periode ke depan, interpretasi tren. Praktik dengan Excel; fokus pada kemampuan membaca dan menginterpretasi hasil, bukan kecepatan hitungan manual. Tagihan: Tugas 6 (kelompok 2 orang).
+Pertemuan 14 — Modul 14: Studi kasus integratif — skenario bisnis utuh (minggu penyangga kedua). Mahasiswa (kelompok 3–4 orang) menyelesaikan satu skenario UMKM lokal yang ingin ekspansi ekspor, mencakup: optimasi produksi (Modul 9), BEP dan EOQ (Modul 10), konversi harga ekspor dan CIF (Modul 12), cicilan kredit mesin (Modul 11), ramalan penjualan 6 bulan ke depan (Modul 13). Diakhiri presentasi 10 menit per kelompok dan peer assessment. Tagihan: Laporan + presentasi (proyek akhir 15%).
+
+UJIAN AKHIR SEMESTER (UAS): Fokus evaluasi pada penyelesaian studi kasus komprehensif, akurasi analisis data, dan kualitas pengambilan keputusan manajerial.
+
+Skema Penilaian
+
+Tugas & Kuis (6 kali): 25% — individu
+Ujian Tengah Semester: 30% — tertulis, matematika murni
+Ujian Akhir Semester: 30% — studi kasus komprehensif
+Proyek Akhir Integratif: 15% — kelompok, presentasi, peer assessment
+Rentang nilai: A ≥ 85 | AB = 80–84 | B = 70–79 | BC = 65–69 | C = 55–64 | D = 40–54 | E < 40
+
+
+Kekhawatiran Utama: Realisme untuk Mahasiswa Berkemampuan Rendah
+Telah diidentifikasi bahwa kurikulum ini berisiko terlalu padat jika tidak disesuaikan. Masalah utamanya adalah: volume terlalu tinggi (13 topik dalam 14 pertemuan), lompatan kognitif besar di beberapa titik, blok pasca-UTS yang padat, dan tidak adanya mekanisme pemulihan jika mahasiswa tertinggal di satu modul.
+Rekomendasi penyesuaian yang sudah disepakati (kombinasi Strategi A + B):
+Pertahankan struktur bifurkasi, tapi: (1) pangkas atau sederhanakan 3–4 modul berat — matriks cukup 2×2, EOQ langsung pakai rumus tanpa derivasi kalkulus, forecasting fokus pada interpretasi bukan hitungan manual, studi kasus integratif dipersempit dari 7 tahap menjadi 3–4 tahap; (2) perlambat di titik-titik kritis dengan tidak memaksakan satu pertemuan = satu bab penuh; (3) tambahkan diagnostik awal 30 menit di Pertemuan 1 untuk memetakan prior knowledge; (4) tambahkan check-in 10 menit di awal setiap pertemuan untuk review materi sebelumnya; (5) gunakan Pertemuan 7 secara penuh sebagai sesi remedial terstruktur, bukan sekadar formalitas.
+
+Pertanyaan yang Masih Terbuka
+Belum ditentukan apakah saya memiliki kebebasan penuh merevisi isi dan kedalaman materi, atau harus mengikuti kurikulum prodi dan buku ajar wajib yang sudah ditetapkan. Jawaban atas pertanyaan ini akan menentukan seberapa jauh penyesuaian dapat dilakukan.
+
+Catatan Teknis untuk Project Baru
+
+CPL yang dibebankan saat ini menggunakan kode sementara CPL-3 (kemampuan kuantitatif teknis) dan CPL-4 (pengambilan keputusan berbasis data) — perlu disesuaikan dengan CPL resmi prodi ABI setelah dokumen tersedia.
+RPS dalam format Word (.docx) sudah tersedia dan siap diedit.
+Konteks lokal yang relevan: mahasiswa berasal dari Sulawesi, sehingga studi kasus dapat menggunakan UMKM lokal Sulawesi sebagai benang merah agar relevansi geografis terasa nyata.
